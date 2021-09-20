@@ -8,7 +8,7 @@ public class BootClass {
 	}
 	public static void show()
 	{
-		int[] arr= {1,2,3,4,5};
+		int[] arr= {1,2,3,4};
 		for(int i=0;i<100;i++)
 		{
 			System.out.println(arr[i]);
